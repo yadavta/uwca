@@ -15,7 +15,7 @@ Download this [Google Drive folder](https://drive.google.com/drive/folders/1wEmZ
 
 *If you know how to run a bash script...* download and run this [script](https://drive.google.com/file/d/1BIQ7IZEbLDYzy6d9dtMfkPDUQZaVEiZ8/view?usp=share_link).
 
-*If you have no clue what a bash script is...* don't worry. First, copy all the text on [this webpage](https://raw.githubusercontent.com/yadavta/uwca/main/fonts/installFontsMac.sh) to your clipboard. Second, open the "Terminal" app on your computer. Third, paste the text you copied earlier. Lastly, hit "enter" and watch as the fonts get installed.
+*If you have no clue what a bash script is...* don't worry. First, copy all the text on [this webpage](https://raw.githubusercontent.com/yadavta/uwca/main/fonts/installFontsMac.sh) to your clipboard. Second, open the "Terminal" app on your computer. Third, paste the text you copied earlier into the terminal. Lastly, hit "enter" and watch as the fonts get installed in the terminal.
 
 ### Method 1: Homebrew
 
