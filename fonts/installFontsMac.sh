@@ -1,4 +1,4 @@
-cd ~/Library/Fonts && {
+cd /Library/Fonts && {
 	printf "\n *** Starting Font Installation *** \n"
 	printf "\n *** Downloading Fonts *** \n"
 	curl -s -S -0 'https://homes.cs.washington.edu/~tanush/uwca/clear-sans.zip' --output clear-sans.zip
@@ -9,6 +9,7 @@ cd ~/Library/Fonts && {
 	unzip -q hk-grotesk
 	
 	printf "\n *** Sanitizing Files *** \n"
+	find . -type f -name '*.txt' -exec rm {} +
 	rm -rf clear-sans.zip
 	rm -rf clear-sans
 	rm -rf hk-grotesk.zip
