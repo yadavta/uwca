@@ -14,8 +14,8 @@ brew tap homebrew/cask
 brew tap homebrew/cask-fonts
 
 # Installing relevant fonts
-brew cask install font-hanken-grotesk
-brew cask install font-clear-sans
+brew install font-hanken-grotesk --cask
+brew install font-clear-sans --cask
 ```
 If an error occurs, try adding `sudo` to the beggining of each line.
 
