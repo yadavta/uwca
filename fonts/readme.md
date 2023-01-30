@@ -7,15 +7,13 @@ Below, tutorials are provided for installing our club's fonts on your local syst
 
 ## Tutorial: Windows
 
-Download this [Google Drive folder](https://drive.google.com/drive/folders/1k5VJdbojfc4ONXjF2O__t_es9ppurICe?usp=share_link). Then double-click on the `0_installFontsWindows.vbs` file to run it. If you already have some of the fonts installed, you will be prompted by the system to confirm that you want to replace them.
+Download this [Google Drive folder](https://drive.google.com/drive/folders/1wEmZNofLLZNdJ6JetLeFLc9DSZUqSSqN?usp=share_link). Then double-click on the `0_installFontsWindows.vbs` file to run it. If you already have some of the fonts installed, you will be prompted by the system to confirm that you want to replace them.
 
 ## Tutorial: Mac OS
 
 ### Method 0: Custom Script
 
-Download and run this [script](https://raw.githubusercontent.com/yadavta/uwca/main/fonts/installFontsMac.sh).
-
-Alternatively, you can copy-paste that script into the terminal and hit the "enter" button on your keyboard to run it.
+Download and run this [script](https://drive.google.com/file/d/18vaWbN_WjBDrb1e9hmbVETZTcy1T78XL/view?usp=share_link).
 
 ### Method 1: Homebrew
 
